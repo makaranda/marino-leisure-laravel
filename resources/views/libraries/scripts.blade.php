@@ -11,6 +11,8 @@
 <script src="{{ URL::to('') }}/resources/vendors/mail-script.js"></script>
 <script src="{{ URL::to('') }}/resources/js/main.js"></script>
 <script src="https://www.google.com/recaptcha/api.js" async defer></script>
+<!-- <script src="https://unpkg.com/flickity@2/dist/flickity.pkgd.min.js"></script> -->
+
 <!-- <script type="text/javascript" src="http://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script> -->
 
 <script type="text/javascript">
@@ -42,6 +44,12 @@
 
 <script>    
 $(document).ready(function(){
+
+  // $('.main-carousel').flickity({
+  //     cellAlign: 'left',
+  //     contain: true
+  // });
+
     $('#readMoreBtn').on('click',function(){
   
       var dots = document.getElementById("dots");
@@ -74,7 +82,27 @@ $(document).ready(function(){
         $("html, body").animate({scrollTop: 0}, 3000);
     });
 
-    $(".owl-carousel").owlCarousel({
+    $(".main-paralex-area .owl-carousel").owlCarousel({
+      loop:true,
+      margin:10,
+      nav:false,
+      autoplay:true,
+      autoplayTimeout:10000,
+      dots: false,
+      responsive:{
+        0:{
+          items:1
+        },
+        600:{
+          items:1
+        },
+        1000:{
+          items:1
+        }
+      }
+    });
+
+    $(".hotel-carousel-area .owl-carousel").owlCarousel({
       loop:true,
       margin:10,
       nav:false,

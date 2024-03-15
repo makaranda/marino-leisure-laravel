@@ -14,6 +14,7 @@
     <link rel="stylesheet" href="{{ URL::to('') }}/resources/vendors/nice-select/nice-select.css">
 
     <link rel="stylesheet" href="css/style.css">
+    <!-- <link rel="stylesheet" href="https://unpkg.com/flickity@2/dist/flickity.min.css"> -->
 
     <link rel="stylesheet" href="{{ URL::to('') }}/resources/css/style.css?v={{ time() }}">
     <link rel="stylesheet" href="{{ URL::to('') }}/resources/css/mystyle.css?v={{ time() }}">
