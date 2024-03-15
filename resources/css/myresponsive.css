@@ -108,6 +108,14 @@
     .after-slider-text h1{
         font-size: 58px;
     }
+    .navbar-toggler {
+        margin-top: 20px;
+        margin-left: 10px;
+        margin-bottom: 20px;
+    }
+    .navbar-brand img {
+        width: 135px;
+    }
 }
 
 
@@ -159,9 +167,17 @@
     .main-sections.section-area-5{
         padding-top: 5px !important;
         padding-bottom: 5px !important;
-        
         div{
           margin-top: 0px !important;
         } 
      }
+
+     .navbar-toggler {
+        margin-top: 20px;
+        margin-left: 10px;
+        margin-bottom: 20px;
+    }
+    .navbar-brand img {
+        width: 135px;
+    }
 }

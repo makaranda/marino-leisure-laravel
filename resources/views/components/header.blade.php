@@ -9,7 +9,7 @@
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>Marino Lesure | Hotels</title>
-        <link rel="icon" href="{{ asset('public/images/main-logo.jpg') }}" type="image/png">
+        <link rel="icon" href="{{ asset('public/images/favicon.jpg') }}" type="image/png">
         <meta name="keywords" content="Hotels,  Bungalow in Sri Lanka">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
