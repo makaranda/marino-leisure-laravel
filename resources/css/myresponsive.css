@@ -180,4 +180,26 @@
     .navbar-brand img {
         width: 135px;
     }
+    .owl-slider-text-area {
+        h4{
+            font-size: 20px !important;
+        }
+        p{
+            font-size: 14px !important;
+        }
+    }
+    .welcome-content {
+        h2 {
+            font-size: 25px;
+            text-align: left;
+        }
+        p{
+            font-size: 16px;
+            text-align: left;
+        }
+    }
+    .home-banner-btn {
+        font-size: 12px !important;
+    }
+    
 }

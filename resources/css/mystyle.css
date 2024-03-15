@@ -173,13 +173,15 @@ a.card-explore__link:hover {
 
 .theme-btn2 {
     letter-spacing: 1.2px;
-    background: #004a71;
+    background-color: #004a71;
     border: 2px solid #fff;
     padding: 4px 10px;
     color: #fff;
-    &:hover{
-        background: #004a71;
+    
+    &:hover {
+        background-color: #0273af;
         border: 2px solid #fff;   
+        color: #fff;
     }
 }
 
