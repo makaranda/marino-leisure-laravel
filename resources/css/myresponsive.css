@@ -147,5 +147,21 @@
     .after-slider-text h1{
         font-size: 42px;
     }
+    .main-sections.section-area-0{
+       padding-top: 5px !important;
+       padding-bottom: 5px !important;
+       
+       div{
+         padding-top: 0px !important;
+       } 
+    }
 
+    .main-sections.section-area-5{
+        padding-top: 5px !important;
+        padding-bottom: 5px !important;
+        
+        div{
+          margin-top: 0px !important;
+        } 
+     }
 }

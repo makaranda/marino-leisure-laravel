@@ -14,7 +14,7 @@
                         </ul>
                     </div>
                     <div class="col-xl-2 col-sm-6 mb-4 mb-xl-0 single-footer-widget">
-                        <h4>Our Partners</h4>
+                        <h4>Our Hotels</h4>
                         <ul>
                             <li><a href="https://marinobeach.com" target="_new">Marino Beach</a></li>
                             <li><a href="https://sigiriyaforestedge.com" target="_new">Sigiriya Forestedge</a></li>
@@ -30,7 +30,7 @@
                     </div>
                     <div class="col-xl-5 col-md-8 mb-4 mb-xl-0 single-footer-widget">
                         <h4>About</h4>
-                        <p>You can trust us. we only send promo offers,</p>
+                        <p>Join us on a journey of exploration as we expand our horizons, enrich the lives of those around us, and unlock a world of possibilities.</p>
                         <div class="form-wrap footer-bottom " id="mc_embed_signup">
                             <div class="col-lg-12 col-md-12 text-left text-lg-left footer-social p-0">
                                 <a href="#"><i class="fab fa-facebook-f"></i></a>

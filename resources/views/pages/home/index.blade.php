@@ -14,7 +14,7 @@
     </section>
     <!-- ================ end banner area ================= -->
     
-    <section class="section-margin mb-0 pb-5 mt-0 pt-5 main-sections">
+    <section class="section-margin mb-0 pb-5 mt-0 pt-5 main-sections section-area-0">
       <div class="container">
 
         <div class="row pt-5">
@@ -31,14 +31,14 @@
     
 
     <!-- ================ welcome section start ================= -->
-    <section class="welcome mt-0 mb-0 pt-5 pb-5 main-sections">
+    <section class="welcome mt-0 mb-0 pt-5 pb-5 main-sections section-area-1">
       <div class="container">
         <div class="row align-items-center bg-white shadow">
           <div class="col-lg-8 mb-4 mb-lg-0 p-0">
             <div class="row no-gutters welcome-images">
               <div class="col-lg-12">
                 <div class="card m-0">
-                  <img class="" src="{{ asset('public/images/home/labookelie_section_img.jpg') }}" alt="Card image cap" class="img-fluid"/>
+                  <img class="" src="{{ asset('public/images/home/home_section_company_strategy.jpg') }}" alt="Card image cap" class="img-fluid"/>
                 </div>
               </div>
             </div>
@@ -58,7 +58,7 @@
     <!-- ================ welcome section end ================= -->  
     
     <!-- ================ welcome section start ================= -->
-    <section class="welcome mt-0 mb-0 pt-5 pb-5 main-sections">
+    <section class="welcome mt-0 mb-0 pt-5 pb-5 main-sections section-area-2">
       <div class="container">
         <div class="row align-items-center bg-white shadow">
             
@@ -87,7 +87,7 @@
     
 
     <!-- ================ welcome section start ================= -->
-    <section class="welcome mt-0 mb-0 pt-5 pb-5 main-sections">
+    <section class="welcome mt-0 mb-0 pt-5 pb-5 main-sections section-area-3">
       <div class="container">
         <div class="row align-items-center bg-white shadow">
           <div class="col-lg-8 mb-4 mb-lg-0 p-0">
@@ -114,7 +114,7 @@
     <!-- ================ welcome section end ================= -->     
      
     <!-- ================ welcome section start ================= -->
-    <section class="welcome mt-0 mb-0 pt-5 pb-5 main-sections">
+    <section class="welcome mt-0 mb-0 pt-5 pb-5 main-sections section-area-4">
       <div class="container">
         <div class="row align-items-center bg-white shadow">
             
@@ -143,7 +143,7 @@
 
    
     
-    <section class="section-margin mb-0 pb-5 mt-0 pt-5 main-sections">
+    <section class="section-margin mb-0 pb-5 mt-0 pt-5 main-sections section-area-5">
       <div class="container">
         <div class="row justify-content-center mt-5">
             <div class="col-12 col-sm-12 mt-3">
@@ -155,7 +155,7 @@
                               <div class="item">
                                  <div class="owl-slider-text-area">
                                     <h4>Marino Beach</h4>
-                                    <p>asdasd asdadasd asdasasd asdasd asdasd</p>
+                                    <p>The Hotel boasts of 300 spacious & luxurious rooms with sea or partial sea view.</p>
                                     <a href="#" class="owl-button">Learn More</a>
                                  </div>  
                                  <img src="{{ asset('public/images/hotels/marino_hotel_section_img1.jpg') }}" alt="Slide 1">
@@ -163,7 +163,7 @@
                               <div class="item">
                                  <div class="owl-slider-text-area">
                                     <h4>Sigiriya Forest Edge</h4>
-                                    <p>asdasd asdadasd asdasasd asdasd asdasd</p>
+                                    <p>Sigiriya Forest Edge offers a serene retreat just a short 10-minute ride from the Ruins.</p>
                                     <a href="#" class="owl-button">Learn More</a>
                                  </div>
                                  <img src="{{ asset('public/images/hotels/sigiriya_hotel_section_img1.jpg') }}" alt="Slide 2">

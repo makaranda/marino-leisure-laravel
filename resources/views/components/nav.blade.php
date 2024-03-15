@@ -5,7 +5,7 @@
       <nav class="navbar navbar-expand-lg navbar-light">
         <div class="container">
           <!-- Brand and toggle get grouped for better mobile display -->
-          <a class="navbar-brand" href="{{ URL::to('') }}"><img src="{{ asset('public/images/main-logo-3.jpg') }}" alt="" title="" class="border"/></a>
+          <a class="navbar-brand" href="{{ URL::to('') }}"><img src="{{ asset('public/images/main-logo-3.jpg') }}" alt="" title="" class=""/></a>
           <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
