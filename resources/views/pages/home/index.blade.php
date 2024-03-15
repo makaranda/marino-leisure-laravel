@@ -121,7 +121,7 @@
           <div class="col-lg-4 order-2 order-sm-1">
             <div class="welcome-content p-4">    
               <h2 class="mb-3 mt-3">
-                  <span class="d-block">Marino Lesure Careers</span>
+                  <span class="d-block">Marino Leisure Careers</span>
               </h2>
               <p>At Marino Leisure, we recognize the invaluable role our associates play in shaping our future. Now, you have the opportunity to be part of this exciting journey ahead.</p>
               <a class="button button--active home-banner-btn mt-3" href="{{ URL::to('') }}">Search Careers</a>
