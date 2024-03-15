@@ -157,6 +157,7 @@
                                     <h4>Marino Beach</h4>
                                     <p>The Hotel boasts of 300 spacious & luxurious rooms with sea or partial sea view.</p>
                                     <a href="#" class="owl-button">Learn More</a>
+                                    <a href="https://marinobeach.com/" class="theme-btn2">Visit Website</a>
                                  </div>  
                                  <img src="{{ asset('public/images/hotels/marino_hotel_section_img1.jpg') }}" alt="Slide 1">
                               </div>
@@ -164,7 +165,8 @@
                                  <div class="owl-slider-text-area">
                                     <h4>Sigiriya Forest Edge</h4>
                                     <p>Sigiriya Forest Edge offers a serene retreat just a short 10-minute ride from the Ruins.</p>
-                                    <a href="#" class="owl-button">Learn More</a>
+                                    <a href="#" class="owl-button">Learn More</a>   
+                                    <a href="https://labookellievilla.marinobeach.com/" class="theme-btn2">Visit Website</a>
                                  </div>
                                  <img src="{{ asset('public/images/hotels/sigiriya_hotel_section_img1.jpg') }}" alt="Slide 2">
                               </div>

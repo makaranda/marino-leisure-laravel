@@ -165,11 +165,22 @@ a.card-explore__link:hover {
     letter-spacing: 1.2px;
     background: #004a71;
     border: 2px solid #004a71;
+    &:hover {
+        color: #004a71;
+        border-color: #004a71;
+    }
 }
 
-.home-banner-btn:hover {
-    color: #004a71;
-    border-color: #004a71;
+.theme-btn2 {
+    letter-spacing: 1.2px;
+    background: #004a71;
+    border: 2px solid #fff;
+    padding: 4px 10px;
+    color: #fff;
+    &:hover{
+        background: #004a71;
+        border: 2px solid #fff;   
+    }
 }
 
 /** end theme button style */
@@ -678,3 +689,5 @@ body::-webkit-scrollbar-thumb
 }
 
 /** End Scroll Bar Change */
+
+
