@@ -22,7 +22,7 @@
             </ul>
             
           </div>
-          
+          <!--
             <div class="dropdown">
                 <div class="dropdown-content">
                     <img src="https://th.bing.com/th?id=OSK.f03e1696a324ecc7fdd23273149c60c8&w=188&h=132&c=7&o=6&pid=SANGAM" alt="English" onclick="selectLanguage('en')" width="30px"/>
@@ -31,7 +31,7 @@
                 </div>
             </div>
             <div id="google_translate_element"></div>
-
+            -->
         </div>
       </nav>
     </div>

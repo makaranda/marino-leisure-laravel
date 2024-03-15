@@ -11,15 +11,16 @@
 <script src="{{ URL::to('') }}/resources/vendors/mail-script.js"></script>
 <script src="{{ URL::to('') }}/resources/js/main.js"></script>
 <script src="https://www.google.com/recaptcha/api.js" async defer></script>
-<script type="text/javascript" src="http://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+<!-- <script type="text/javascript" src="http://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script> -->
 
 <script type="text/javascript">
+  /*
     function googleTranslateElementInit() {
         new google.translate.TranslateElement({
           pageLanguage: 'en', // Specify the default language of your webpage
             includedLanguages: 'en,es,fr', // Specify the languages you want to include
             /*layout: google.translate.TranslateElement.InlineLayout.SIMPLE,*/ // Adjust the layout if needed
-            layout: google.translate.TranslateElement.FloatPosition.TOP_LEFT,
+   /*         layout: google.translate.TranslateElement.FloatPosition.TOP_LEFT,
             multilanguagePage: true
         }, 'google_translate_element');
         var select = document.querySelector('.goog-te-combo');
@@ -28,16 +29,18 @@
         selectLanguageOption.value = '';
         select.prepend(selectLanguageOption);        
     }
-</script>
 
-
-<script>
     function selectLanguage(langCode) {
         var select = document.querySelector('.goog-te-combo');
         select.value = langCode;
         select.dispatchEvent(new Event('change'));
     }
-    
+
+    */
+</script>
+
+
+<script>    
 $(document).ready(function(){
     $('#readMoreBtn').on('click',function(){
   
@@ -80,7 +83,7 @@ $(document).ready(function(){
       dots: false,
       responsive:{
         0:{
-          items:2
+          items:1
         },
         600:{
           items:2
