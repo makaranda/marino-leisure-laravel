@@ -225,6 +225,7 @@ a.card-explore__link:hover {
     display: table-cell;
     vertical-align: middle;
 }
+
 #toTop {
     padding: 5px 3px;
     color: #fff;
@@ -241,6 +242,7 @@ a.card-explore__link:hover {
 section {
     background: #f4f4f4;
 }
+
 .main-paralex-area {
     background-attachment: fixed;
     background-position: 50%;
