@@ -220,13 +220,11 @@ a.card-explore__link:hover {
 #toTop a:hover {
     background: rgb(0, 102, 156);
 }
-
 #toTop a i {
     height: 50px;
     display: table-cell;
     vertical-align: middle;
 }
-
 #toTop {
     padding: 5px 3px;
     color: #fff;
