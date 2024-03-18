@@ -241,7 +241,6 @@ a.card-explore__link:hover {
 section {
     background: #f4f4f4;
 }
-
 .main-paralex-area {
     background-attachment: fixed;
     background-position: 50%;
@@ -250,7 +249,6 @@ section {
     width: 100%;
     background-color: transparent;
 }
-
 .main-paralex-banner {
     position: absolute;
     top: 0px;
