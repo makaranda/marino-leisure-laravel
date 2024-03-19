@@ -243,7 +243,9 @@ a.card-explore__link:hover {
 
 /** End Top to bottom */
 
-#section1_more {display: none;}
+#section1_more {
+    display: none;
+}
 
 section {
     background: #f4f4f4;
