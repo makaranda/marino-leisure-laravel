@@ -446,6 +446,7 @@ section {
     text-align: left;
     color: rgb(113, 113, 113);
 }
+
 .section-top-sub-title2 {
     justify-self: flex-start;
     font-size: clamp(.8rem, 0.62vw, 1.6rem);
