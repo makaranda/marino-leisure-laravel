@@ -217,9 +217,11 @@ a.card-explore__link:hover {
     border-radius: 0px !important;
     text-decoration: none;
 }
+
 #toTop a:hover {
     background: rgb(0, 102, 156);
 }
+
 #toTop a i {
     height: 50px;
     display: table-cell;
