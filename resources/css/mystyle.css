@@ -688,6 +688,7 @@ body::-webkit-scrollbar
 	width: 12px;
 	background-color: #F5F5F5;
 }
+
 body::-webkit-scrollbar-thumb
 {
 	border-radius: 10px;
