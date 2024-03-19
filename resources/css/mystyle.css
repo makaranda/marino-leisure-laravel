@@ -633,6 +633,7 @@ div#google_translate_element select{
 .header_area .navbar .nav .nav-item.active .nav-link {
     color: #004a71;
 }
+
 .header_area .navbar .nav .nav-item.active .nav-link:after {
     border-bottom: 2px solid #004a71;
     content: "";
@@ -642,6 +643,7 @@ div#google_translate_element select{
 .header_area .navbar .nav .nav-item .nav-link:hover {
     color: #004a71;
 }
+
 .header_area .navbar .nav .nav-item .nav-link:hover:after {
     border-bottom: 2px solid #004a71;
     content: "";
